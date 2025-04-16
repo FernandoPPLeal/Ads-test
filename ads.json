@@ -1,6 +1,6 @@
 {
   "ad_1": [
-{
+  {
     "ad_name": "Agune",
     "ad_1024x512_banner_long": 
     {
@@ -27,9 +27,9 @@
     }
   },
   {
+    "ad_name": "Agune",
     "ad_1024x512_flag": 
     {
-      "ad_name": "Agune"
       "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
       "bg_color": 
       {
