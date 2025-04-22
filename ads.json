@@ -10,7 +10,8 @@
         "Red": 1.0,
         "Green": 1.0,
         "Blue": 1.0,
-        "Alpha": 1.0
+        "Alpha": 1.0,
+        "banner_long_end": 0.0
         }
     }
   },
@@ -24,7 +25,8 @@
         "Red": 1.0,
         "Green": 1.0,
         "Blue": 1.0,
-        "Alpha": 1.0
+        "Alpha": 1.0,
+        "banner_mid_end": 0.0
       }
     }
   },
@@ -38,12 +40,25 @@
         "Red": 1.0,
         "Green": 1.0,
         "Blue": 1.0,
-        "Alpha": 1.0
+        "Alpha": 1.0,
+        "flag_end": 0.0
       }
     }
   },
   { 
-    "ad_1024x1024_banner_short": null
+    "ad_name": "Agune",
+    "ad_1024x1024_banner_short":
+        {
+      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/fernandinho_1024x1024.png",
+      "bg_color": 
+      {
+        "Red": 1.0,
+        "Green": 1.0,
+        "Blue": 1.0,
+        "Alpha": 1.0,
+        "banner_short_end": 0.0
+      }
+    }
   }
   ]    
 }
