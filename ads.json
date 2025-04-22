@@ -7,8 +7,8 @@
       "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
       "bg_color":
         {
-        "Red": 1.0,
-        "Green": 1.0,
+        "Red": 0.0,
+        "Green": 0.0,
         "Blue": 1.0,
         "Alpha": 1.0,
         "banner_long_end": 0.0
@@ -22,9 +22,9 @@
       "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
       "bg_color": 
       {
-        "Red": 1.0,
+        "Red": 0.0,
         "Green": 1.0,
-        "Blue": 1.0,
+        "Blue": 0.0,
         "Alpha": 1.0,
         "banner_mid_end": 0.0
       }
@@ -38,8 +38,8 @@
       "bg_color": 
       {
         "Red": 1.0,
-        "Green": 1.0,
-        "Blue": 1.0,
+        "Green": 0.0,
+        "Blue": 0.0,
         "Alpha": 1.0,
         "flag_end": 0.0
       }
@@ -53,7 +53,7 @@
       "bg_color": 
       {
         "Red": 1.0,
-        "Green": 1.0,
+        "Green": 0.0,
         "Blue": 1.0,
         "Alpha": 1.0,
         "banner_short_end": 0.0
