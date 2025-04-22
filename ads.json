@@ -32,6 +32,21 @@
   },
   {
     "ad_name": "Agune",
+    "ad_1024x512_banner_mid_black": 
+    {
+      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
+      "bg_color":
+        {
+        "Red": 0.0,
+        "Green": 0.0,
+        "Blue": 1.0,
+        "Alpha": 1.0,
+        "banner_mid_black_end": 0.0
+      }
+    }
+  },
+  {
+    "ad_name": "Agune",
     "ad_1024x512_flag": 
     {
       "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
