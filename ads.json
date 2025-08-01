@@ -4,7 +4,7 @@
     "ad_name": "Agune",
     "ad_1024x512_banner_long": 
     {
-      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
+      "ad_url": "Empty",
       "bg_color":
         {
         "Red": 0.0,
@@ -19,7 +19,7 @@
     "ad_name": "Agune",
     "ad_1024x512_banner_mid": 
     {
-      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
+      "ad_url": "Empty",
       "bg_color": 
       {
         "Red": 0.0,
@@ -34,7 +34,7 @@
     "ad_name": "Agune",
     "ad_1024x512_banner_mid_black": 
     {
-      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
+      "ad_url": "Empty",
       "bg_color":
         {
         "Red": 0.0,
@@ -49,7 +49,7 @@
     "ad_name": "Agune",
     "ad_1024x512_flag": 
     {
-      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/agune_1024x512.png",
+      "ad_url": "Empty",
       "bg_color": 
       {
         "Red": 1.0,
@@ -64,7 +64,7 @@
     "ad_name": "Agune",
     "ad_1024x1024_banner_short":
         {
-      "ad_url": "https://wiki.vrmonkey.com.br/spikeball-test/fernandinho_1024x1024.png",
+      "ad_url": "Empty",
       "bg_color": 
       {
         "Red": 1.0,
@@ -77,3 +77,4 @@
   }
   ]    
 }
+
